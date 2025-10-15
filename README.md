@@ -103,14 +103,14 @@ Serás evaluado en los siguientes aspectos:
 
 ### Ejecución local
 
-# Instalar dependencias
-npm install
+#### Instalar dependencias
+- npm install
 
-# Ejecutar en modo desarrollo
-npm run dev
+#### Ejecutar en modo desarrollo
+- npm run dev
 
-# Ejecutar tests
-npm run test
+#### Ejecutar tests
+- npm run test
 
 La app estará disponible en http://localhost:3000
 
